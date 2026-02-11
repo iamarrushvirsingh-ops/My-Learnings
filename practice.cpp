@@ -1,6 +1,6 @@
 #include <iostream>
  using namespace std;
-
+/* This a programme that calculates BMI of a person based on the info they input in the progrmame . */
  int main()
  {
  
@@ -17,4 +17,5 @@ float BMI = weight / height2 ;
 cout << "Your BMI is " << BMI << "!" << endl; 
     return 0;
 }
+
 
